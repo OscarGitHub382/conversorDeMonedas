@@ -59,9 +59,9 @@ public class ConvertidorDeDivisas {
                 .create();
         DivisaExchangerate divisa = gson.fromJson(respuestaJson, DivisaExchangerate.class);
 
-        docDivisas.add(divisa);
+        //docDivisas.add(divisa);
 
-        FilterWriter escritura =
+        //FilterWriter escritura =
 
 
 
